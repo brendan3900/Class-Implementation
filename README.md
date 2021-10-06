@@ -2,7 +2,7 @@
 Creating classes, class inheritance, maximum/minimum value sorting, and dynamic memory allocation.
 
 
-<<<<<Summary of Approach>>>>>
+Summary of Approach
 
 /////Class Person
 •	To begin this class, the private variables were declared, including two strings and an int (fullname, address, and age).
