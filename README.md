@@ -6,6 +6,7 @@ Summary of Approach
 
 /////Class Person
 •	To begin this class, the private variables were declared, including two strings and an int (fullname, address, and age).
+
 •	Next, all the public functions were created. A class constructor was unnecessary because C++ automatically generates a default constructor when no other constructors are created. 
 •	The first function created was a void function called readPersonInfo(); this fills in the private attributes of a Person object using keyboard input operations. 
 •	The second function was a void function called printPersonInfo(); this displays the private attributes of a Person object. 
